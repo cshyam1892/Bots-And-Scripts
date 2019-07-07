@@ -1,3 +1,4 @@
 # Bots-And-Scripts
 
-some oneliners.
+Going to upload more after removing authtokens and passwords!
+
